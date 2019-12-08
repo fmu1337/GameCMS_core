@@ -32,4 +32,4 @@ before_script:
     - chmod +x compile.sh
 
 script: 
-    - ./compile.sh gamecms_services_loader.sp
+    - ./compile.sh gamecms_core.sp
